@@ -1,0 +1,56 @@
+-----------------------------------------------------------------------------
+
+  Copyright 2021, Wolf3s and Wally modder
+  Licenced under Academic Free License version 3.0
+  Review DOOMED LOADER README & LICENSE files for further details.
+
+-----------------------------------------------------------------------------
+
+Main code is based on HD Project 1.081
+Copyright (C) 2006-2008 Polo <polo35580@hotmail.fr>
+
+Adaptation to USB Advance format and User interface
+Copyright (C) 2009 Ifcaro <taslokooo@gmail.com>
+
+CDVDMAN, CDVDFSV, CDDEV, DISCID & SMBMAN modules by jimmikaelkael
+Copyright (C) 2009 jimmikaelkael <jimmikaelkael@wanadoo.fr>
+
+NETLOG module, and other contributions
+Copyright (C) 2009 misfire <misfire@xploderfreax.de>
+
+Based on the fork of Open PS2 Loader
+Copyright (C) 2021 wolf3s and wally modder 
+https://discord.gg/3fYaVthv and https://discord.gg/YncHYxAA
+-----------------------------------------------------------------------------
+
+Main Project developers
+by Ifcaro, volca, jimmikaelkael, polo35, izdubar, hominem.te.esse, SP193,
+wolf3s and wally modder
+
+Other developers
+by BatRastard, crazyc, dlanor, doctorxyz, reprep, belek666, Maximus32, misfire
+
+UI design
+Berion, Deacon John
+
+Quality Assurance
+by RandQalan, yoshi314, EP, LocalH, lee4, El_Patas, ShaolinAssassin, algol, gledson999, jolek, zero35,
+wolf3s and wally modder
+
+SMSUTILS, SMSMAP & SMSTCPIP modules
+by Eugene Plotnikov
+
+DEV9, ATAD modules and derived code used in cdvdman
+by Marcus R. Brown
+
+USB, Network and PS2HDD modules
+by ps2dev's taken from PS2SDK
+
+OPL-CL project/network update support
+by icyson55
+
+SMB code in Open PS2 Loader includes DES algorithm developed
+by Eric Young (eay@mincom.oz.au)
+
+CI/CD Implementation using Dockers and GiHubActions
+by fjtrujy
