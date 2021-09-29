@@ -1,6 +1,7 @@
-# DOOMED-LOADER
+# DOOMED-LOADER ART OF CONCEPT
 It´s a Open-PS2-Loader Fork with some new addon for the doom comunity and 
-some new support for new filesystems like:ext2
+some new support for new filesystems like:ext2 
+do not try anthing now because we had added nothing yet like wad games
 
 # REPOSITORY OF PUBLIC RELEASES FOR DOOMED-LOADER
 
