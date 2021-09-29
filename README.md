@@ -4,6 +4,6 @@ some new support for new filesystems like:ext2
 
 # REPOSITORY OF PUBLIC RELEASES FOR DOOMED-LOADER
 
-#Feautures
+# Feautures
 It can load .wad games, pk3 and other formats known in doom(Work in progress)
 Supports ext2, ext3, ext4, ntfs, exfat and btrfs
