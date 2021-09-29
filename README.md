@@ -8,4 +8,8 @@ some new support for new filesystems like:ext2
 It can load .wad games, pk3 and other formats known in doom(Work in progress)
 Supports ext2, ext3, ext4, ntfs, exfat and btrfs, no need to defrag anymore(Work progress)
 
+#Source code
 The source will be released when i do the minimum like ext2 or wad games, ok.
+
+# License
+it´s under Academic License v3.0
